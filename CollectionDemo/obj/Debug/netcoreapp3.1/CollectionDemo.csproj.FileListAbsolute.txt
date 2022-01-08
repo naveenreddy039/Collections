@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\CollectionDemo\CollectionDemo\bin\Debug\netcoreapp3.1\CollectionDemo.exe
+C:\Users\hp\source\repos\CollectionDemo\CollectionDemo\bin\Debug\netcoreapp3.1\CollectionDemo.deps.json
+C:\Users\hp\source\repos\CollectionDemo\CollectionDemo\bin\Debug\netcoreapp3.1\CollectionDemo.runtimeconfig.json
+C:\Users\hp\source\repos\CollectionDemo\CollectionDemo\bin\Debug\netcoreapp3.1\CollectionDemo.runtimeconfig.dev.json
+C:\Users\hp\source\repos\CollectionDemo\CollectionDemo\bin\Debug\netcoreapp3.1\CollectionDemo.dll
+C:\Users\hp\source\repos\CollectionDemo\CollectionDemo\bin\Debug\netcoreapp3.1\CollectionDemo.pdb
+C:\Users\hp\source\repos\CollectionDemo\CollectionDemo\obj\Debug\netcoreapp3.1\CollectionDemo.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\CollectionDemo\CollectionDemo\obj\Debug\netcoreapp3.1\CollectionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\CollectionDemo\CollectionDemo\obj\Debug\netcoreapp3.1\CollectionDemo.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\CollectionDemo\CollectionDemo\obj\Debug\netcoreapp3.1\CollectionDemo.AssemblyInfo.cs
+C:\Users\hp\source\repos\CollectionDemo\CollectionDemo\obj\Debug\netcoreapp3.1\CollectionDemo.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\CollectionDemo\CollectionDemo\obj\Debug\netcoreapp3.1\CollectionDemo.dll
+C:\Users\hp\source\repos\CollectionDemo\CollectionDemo\obj\Debug\netcoreapp3.1\CollectionDemo.pdb
+C:\Users\hp\source\repos\CollectionDemo\CollectionDemo\obj\Debug\netcoreapp3.1\CollectionDemo.genruntimeconfig.cache
